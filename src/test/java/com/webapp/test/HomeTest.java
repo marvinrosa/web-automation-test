@@ -1,4 +1,4 @@
-package com.telustvplus.test;
+package com.webapp.test;
 
 import org.testng.annotations.Test;
 

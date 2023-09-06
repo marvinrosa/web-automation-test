@@ -3,8 +3,8 @@
 	<groupId>web-automation-selenium</groupId>
 	<artifactId>web-automation-selenium</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>web-automation-selenium TelusTV+</name>
-	<description>web-automation-selenium TelusTV+ Web Application</description>
+	<name>web-automation-selenium WebApp</name>
+	<description>web-automation-selenium WebApp Web Application</description>
 	<dependencies>
 		<!-- https://mvnrepository.com/artifact/org.testng/testng -->
 		<dependency>

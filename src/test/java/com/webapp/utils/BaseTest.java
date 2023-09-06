@@ -1,4 +1,4 @@
-package com.telustvplus.utils;
+package com.webapp.utils;
 
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.AfterMethod;
