@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-09-06T10:37:57 CST" name="Default suite" finished-at="2023-09-06T10:38:05 CST" duration-ms="7974">
+  <suite started-at="2023-09-06T11:47:09 CST" name="Default suite" finished-at="2023-09-06T11:47:18 CST" duration-ms="8993">
     <groups>
     </groups>
-    <test started-at="2023-09-06T10:37:57 CST" name="Default test" finished-at="2023-09-06T10:38:05 CST" duration-ms="7974">
+    <test started-at="2023-09-06T11:47:09 CST" name="Default test" finished-at="2023-09-06T11:47:18 CST" duration-ms="8993">
       <class name="com.webapp.test.HomeTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.webapp.test.HomeTest@51c668e3]" started-at="2023-09-06T10:37:57 CST" name="setup" finished-at="2023-09-06T10:38:05 CST" duration-ms="7609" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.webapp.test.HomeTest@51c668e3]" started-at="2023-09-06T11:47:09 CST" name="setup" finished-at="2023-09-06T11:47:15 CST" duration-ms="6103" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="f()[pri:0, instance:com.webapp.test.HomeTest@51c668e3]" started-at="2023-09-06T10:38:05 CST" name="f" finished-at="2023-09-06T10:38:05 CST" duration-ms="4" status="PASS">
+        <test-method signature="stepsToPerform()[pri:0, instance:com.webapp.test.HomeTest@51c668e3]" started-at="2023-09-06T11:47:15 CST" name="stepsToPerform" finished-at="2023-09-06T11:47:17 CST" duration-ms="2539" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- f -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.webapp.test.HomeTest@51c668e3]" started-at="2023-09-06T10:38:05 CST" name="tearDown" finished-at="2023-09-06T10:38:05 CST" duration-ms="321" status="PASS">
+        </test-method> <!-- stepsToPerform -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.webapp.test.HomeTest@51c668e3]" started-at="2023-09-06T11:47:17 CST" name="tearDown" finished-at="2023-09-06T11:47:18 CST" duration-ms="313" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

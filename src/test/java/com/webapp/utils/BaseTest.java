@@ -11,13 +11,13 @@ import org.testng.annotations.AfterMethod;
 public class BaseTest {
   
 
-  WebDriver driver;
+  public WebDriver driver;
 	
   @BeforeMethod
   public void setup() {
 	  driver = new ChromeDriver();
 	  driver.manage().window().maximize();
-	  driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(15));
+	 driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(15));
 	  driver.get("https://telustvplus.com/#/");
   }
 
